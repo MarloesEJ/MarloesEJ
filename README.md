@@ -1,6 +1,9 @@
 # 💫 About Me:
 Im a student at University of Applied Sciences Leiden. My study is called informatica interaction technology.
-I'm currently working on improving my programming skills and learning new languages
+As part of my study I did a game development track for half a year. In this half a year I worked with 6 other people on making a game from start to finishing a demo in Godot.
+For the game I worked on concept art, 3D modeling, programming and special effects.
+Always working on improving my programming skills and learning new languages, at the moment busy with an intership at GameLab working on a serious game.
+
 
 
 ## 🌐 Socials:
