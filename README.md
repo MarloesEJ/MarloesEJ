@@ -2,7 +2,10 @@
 Im a student at University of Applied Sciences Leiden. My study is called informatica interaction technology.
 As part of my study I did a game development track for half a year. In this half a year I worked with 6 other people on making a game from start to finishing a demo in Godot.
 For the game I worked on concept art, 3D modeling, programming and special effects.
-Always working on improving my programming skills and learning new languages, at the moment busy with an intership at GameLab working on a serious game.
+After the game development track I started my first internship of half a year, in this I worked on a serious game. It was a project for ![InnovA58](www.innova58.nl), I worked on a few diferent UI/UX aspacts and some weather visuals.
+
+
+Always working on improving my programming skills and learning new languages, at the moment busy with a mini horror game.
 
 
 
